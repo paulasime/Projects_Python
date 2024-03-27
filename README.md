@@ -1,0 +1,1 @@
+##### This collection showcases various small-scale projects I’ve worked on using Python.
